@@ -33,7 +33,6 @@ lib:
 clean:
 	$(MAKE) -C ./lib clean
 	rm -f $(OBJ) vgcore*
-	mr_clean
 
 $(NAME):	lib $(OBJ)
 		gcc -o $(NAME) $(OBJ) -lmy -L. $(CPPFLAGS)

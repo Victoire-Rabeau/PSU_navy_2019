@@ -16,7 +16,7 @@
 #include <stdio.h>
 #include <signal.h>
 
-int pos;
+static int pos;
 
 enum player_status {
     attack,
