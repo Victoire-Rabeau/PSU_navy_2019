@@ -25,4 +25,5 @@ player 2:
 ## Credits
 
 [Saif BOUKOTTAYA](https://github.com/Eadroma)
+
 [Victoire RABEAU](https://github.com/Victoire-Rabeau) | <victoire.rabeau@epitech.eu>
